@@ -27,7 +27,7 @@ The project focuses on enhancing the user experience through personalized flight
   - **Weights (W)**: Calculate weights for features based on their uniqueness and frequency of occurrence.
 
 ### 3. Recommendation Algorithm
-- **Purpose**: Recommend flight tickets that best match a passenger's preferences.
+- **Purpose**: Recommend flight tickets that best match passengers' preferences.
 - **Methodology**:
   - Evaluate candidate tickets based on similarity to historical bookings using the constructed user model (D) and feature weights (W).
   - Calculate a recommendation score (Gt) for each ticket considering features like airline, class, and price.
@@ -70,15 +70,15 @@ The project focuses on enhancing the user experience through personalized flight
   - Top recommended flight tickets based on the provided inputs, including airline, class, flight details, and prices.
 
 ## Conclusion
-The Flight Ticket Recommendation System represents a sophisticated application of data-driven insights to streamline flight booking processes. By integrating advanced analytics and machine learning algorithms, the system ensures that users receive optimized recommendations tailored to their travel preferences and historical booking patterns.
+The Flight Ticket Recommendation System represents a sophisticated application of data-driven insights to streamline flight booking processes. By integrating advanced analytics and machine learning algorithms, the system ensures users receive optimized recommendations tailored to their travel preferences and historical booking patterns.
 
 ---
 
-This README provides a detailed overview of the Flight Ticket Recommendation System, covering its components, algorithms, key concepts, and usage instructions. It aims to serve as a comprehensive guide for developers, stakeholders, and users interested in understanding and implementing this innovative solution in the domain of travel and tourism.
+This README provides a detailed Flight Ticket Recommendation System overview, covering its components, algorithms, key concepts, and usage instructions. It aims to serve as a comprehensive guide for developers, stakeholders, and users interested in understanding and implementing this innovative solution in the domain of travel and tourism.
 
 This extended version incorporates specific details about your interdisciplinary project, including team members, project overview, and its educational context at Vignan University.
 
-For any quaries you can reachout throught mail: 
+For any queries, you can reach out through mail: 
 jayanthaddepalli03@gmail.com
 satyalakshmi209@gmail.com
 laharip910@gmail.com
